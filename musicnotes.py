@@ -23,4 +23,4 @@ elif note == 'a':
 elif note == 'b':
     freq = b
 freq = freq / 2 ** (4 - octave)
-print('enter the frequncy', name, 'is', freq)
+print('the freqeuncy is', name, 'is', freq)
